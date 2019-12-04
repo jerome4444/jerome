@@ -1,0 +1,96 @@
+
+body
+{
+margin: 10px;
+padding: 0;
+width: 100%;
+}
+
+section
+{
+width: 120%;
+height: 100vh;
+}
+
+section .resume
+{
+margin-top: 20px;
+margin-left: 20px;
+width: 75%;
+height: 100px;
+}
+
+section .resume h2
+{
+text-align: center;
+width: 85%;
+}
+
+section .objectives h1
+{
+border-style: solid;
+margin: 0;
+padding: 0;
+text-transform: uppercase;
+font-size: 20px;
+}
+
+section .background h1
+{
+border-style: solid;
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .seminar h1
+{
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .skills h1
+{
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .information h1
+{
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .reference h1
+{
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .affirmation h1
+{
+margin: 0;
+padding: 0;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+section .signature
+{
+margin: 0;
+padding: 0;
+font-size: 13px;
+}
+
+section .signature p
+{
+float: right;
